@@ -2,11 +2,22 @@
 
 ⬜ Optional, 🟦 Required, 🟩 Learned
 
-## Git
 
+
+## Testing
+
+| Concepts             | Frameworks            | Libraries             |      
+|----------------------|-----------------------|-----------------------|
+| 🟦 Benefits          | 🟦 Junit 5             | 🟦 AssertJ            |
+| 🟦 Pattern           |                        | 🟦 Mockito            |
+| 🟦 TDD               |                        | 🟦 EasyMcok           |
+| 🟦 BDD               |                        | 🟦Rest Asured         |
 
 ## SQL
 
-| DML                  | DCL                   | DDL                   | TCL     
+| DML                  | DCL                   | DDL                   | TCL                 |
 |----------------------|-----------------------|-----------------------|---------------------|
-| 🟦 SELECT            |                       | 🟦 CREATE             |                     | 
+| 🟦 SELECT            |                       | 🟦 CREATE              |                     |
+| 🟦 UPDATE            |                       |                        |                     |
+| 🟦 DELETE            |                       |                        |                     |
+| 🟦 INSERT            |                       |                        |                     |
