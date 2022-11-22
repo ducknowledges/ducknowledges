@@ -11,7 +11,7 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🗺️ [Knowledge map]()</code><br>
 <code>🛠️ [Projects: 0](PROJECTS.md)</code>
-<code>🎓 [Certification: 0](СERTIFICATION.md)</code>
+<code>🎓 [Certification: 1](СERTIFICATION.md)</code>
 <code>📚 [My readlist: 0](READED_BOOKS)</code><br>
 <code>Blogs:</code>
 <code>🎙️ [Youtube](https://www.youtube.com/channel/UCTyJFdBChrI2nfvWFOROCzg)</code>
