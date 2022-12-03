@@ -5,16 +5,17 @@
 <code>🧑‍🎓 Education: Radio Engineer</code><br>
 
 <code>🤖 Languages:</code>
-<code><img style="height: 15px;" title="JAVA" alt="JAVA" src="/pictures/java.png"></code>
-<code><img style="height: 15px;" title="JAVASCRIPT" alt="JAVASCRIPT" src="/pictures/javascript.jpeg"></code><br>
+<code><img width="25" title="JAVA" alt="JAVA" src="/pictures/java.png"></code>
+<code><img width="25" title="JAVASCRIPT" alt="JAVASCRIPT" src="/pictures/javascript.jpeg"></code>
+<code><img width="25" title="SQL" alt="SQL" src="/pictures/sql.png"></code><br>
 <code>🚀 Technologies:</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🗺️ [Knowledge map]()</code><br>
 <code>🛠️ [Projects: 0](PROJECTS.md)</code>
-<code>🎓 [Certification: 1](СERTIFICATION.md)</code>
-<code>📚 [My readlist: 0](READED_BOOKS)</code><br>
+<code>🎓 [Certificates: 1](CERTIFICATION.md)</code>
+<code>📚 [My readlist: 0](READED_BOOKS.md)</code><br>
 <code>Blogs:</code>
-<code>🎙️ [Youtube](https://www.youtube.com/channel/UCTyJFdBChrI2nfvWFOROCzg)</code>
+<code>🎙️ [Youtube](https://www.youtube.com/@ducknowledges)</code>
 <code>📝 [Blog]()</code>
 <code>✏️ [Written articles: 0](ARTICLES.md)</code><br>
 <code>Contacts:</code>
