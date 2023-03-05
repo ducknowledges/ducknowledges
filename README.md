@@ -11,7 +11,7 @@
 <code>🚀 Technologies:</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🗺️ [Knowledge map]()</code><br>
-<code>🛠️ [Projects: 0](PROJECTS.md)</code>
+<code>🛠️ [Projects: 1](PROJECTS.md)</code>
 <code>🎓 [Certificates: 1](CERTIFICATION.md)</code>
 <code>📚 [My readlist: 0](READED_BOOKS.md)</code><br>
 <code>Blogs:</code>
