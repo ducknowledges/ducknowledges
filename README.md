@@ -22,9 +22,9 @@
 <code>📫 [ducknowledges@gmail.com](mailto:ducknowledges@gmail.com)</code>
 <code>💬 [telegram](https://t.me/kononovit)</code><br>
 
-[![Ducknowledges GitHub stats](https://github-readme-stats.vercel.app/api?username=ducknowledges&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ducknowledges GitHub stats](https://github-readme-stats-ducknowledges.vercel.app/api?username=ducknowledges&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/ducknowledges?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducknowledges&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ducknowledges.vercel.app/api/top-langs/?username=ducknowledges&layout=compact&theme=github_dark)](https://github.com/ducknowledges?tab=repositories)
 
 
 ## About me
