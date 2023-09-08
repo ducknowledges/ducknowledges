@@ -20,7 +20,6 @@
 <code>✏️ [Written articles: 0](ARTICLES.md)</code><br>
 <code>Contacts:</code>
 <code>📫 [ducknowledges@gmail.com](mailto:ducknowledges@gmail.com)</code>
-<code>💬 [telegram](https://t.me/kononovit)</code><br>
 
 [![Ducknowledges GitHub stats](https://github-readme-stats-ducknowledges.vercel.app/api?username=ducknowledges&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/ducknowledges?tab=repositories)
 
